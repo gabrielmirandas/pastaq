@@ -1,0 +1,6 @@
+function cliquei(){
+  var nome= window.prompt('Qual o seu nome? (Responda com sinceridade)')
+  window.alert(`Eu te amo muito, ${nome}!`)
+  var res= document.getElementById('res')
+  res.innerHTML += `<p> Então, ${nome} criei isso aqui para te dizer que eu gosto muito de vc, te acho muito linda, legal, engraçada, e que eu te acho mt inteligente, amigável, acho seu sorriso lindo, sua voz magnífica, contade de ouvir ela o dia todo se pudesse, só de te ver meu dia melhora, ter passado o dia com você na segunda foi muito bom, e quero q a gnt possa ter alguma coisa mais pra frente, e queria dizer q eu te amo muito, ent aceite meu amor por vc, online posso conseguir falar isso, parecer um safado, abusado e tudo mais, mas presencialmente eu sou inofensivo, vergonhoso, tímido e com mt mas mt vergonha msm, aql pessoa q tem q pedir o abraço antes de ver a pessoa, é nesse estilo. Ent criei esse aq pra vc ver que eu gosto de vc e quero q isso possa ser algo, q a gnt possa realmente ter um relacionamento e td mais, pq eu gosto de vc, ent é isso . &#10084</p>`
+}
